@@ -1,0 +1,14 @@
+.shoe-card{
+    border: 0px;
+}
+.shoe-card-footer{
+    border: 0px;
+    background-color: white;
+}
+.category img{
+    width: 100px;
+}
+.slideshow-bg .carousel-item{
+    background-color: lightpink;
+    border-radius: 1em;
+}
